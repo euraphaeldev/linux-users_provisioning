@@ -3,9 +3,9 @@
 
 Repositório criado para o primeiro Desafio de Projeto - Bootcamp Linux Experience DIO. Durante esse desafio criei um arquivo de provisionamento bash script para criar:
 
-*diretorios
-*grupos
-*usuarios
+* diretorios
+* grupos
+* usuarios
 
 Após essa criação, nos concentramos em: 
 
